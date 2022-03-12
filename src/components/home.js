@@ -1,0 +1,6 @@
+function HomepPgae () {
+    return (
+        <h1>Home Page</h1>
+    )
+}
+export default HomepPgae;
